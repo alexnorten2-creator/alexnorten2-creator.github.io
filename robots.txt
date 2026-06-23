@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alexnorten2-creator.github.io/sitemap.xml
